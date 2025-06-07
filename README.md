@@ -100,6 +100,7 @@ Tudo com o objetivo de criar uma **experiência mais fluida, acessível e intuit
 **Problema:** O problema apresentado pela empresa consistia na dificuldade enfrentada por profissionais e organizações na organização, registro e análise de dados relacionados ao processo de vendas. A falta de uma plataforma específica para essas finalidades causava muitos problemas, isso resultava em baixa agilidade na gestão comercial e perda de oportunidades dos profissionais e das organizações.
 
 **Solução:** Desenvolvimento de uma plataforma web intuitíva e adaptável voltada para o gerenciamento de vendas e performance comercial. O sistema oferece ferramentas de visualização de dados, relatórios de desempenho, dashboards interativos, filtros inteligentes e funcionalidades voltadas para a organização de clientes, produtos e vendedores. A aplicação foi desenvolvida com foco em performance, segurança e escalabilidade.
+
 ---
 
 ### 🛠️ Tecnologias Utilizadas
@@ -161,6 +162,10 @@ Fiz diversas melhorias para tornar o conteúdo mais convidativo e intuitivo, com
 **Problema:** A empresa enfrentava dificuldades com a falta de centralização no gerenciamento de tickets, documentos e dados internos, o que impactava diretamente na organização, produtividade e comunicação entre os setores. Os processos dispersos, sem um sistema unificado, geravam retrabalho, perda de informações e dificuldade no acompanhamento do desempenho operacional.
 
 **Solução:** O WeCollab, desenvolver uma plataforma corporativa web que centraliza a gestão de dados e a comunicação interna da empresa. Entre suas funcionalidades estão: acesso centralizado a documentos, gestão de Ordens de Serviço e dashboards de desempenho. A interface garante acessibilidade e eficiência no uso, promovendo maior integração entre os setores da empresa.
+
+---
+
+### 🛠️ Tecnologias Utilizadas
 
 - **TypeScript** – Utilizado para o desenvolvimento do front-end em conjunto com Next.Js
 - **JavaScript** - Utilizado no back-end com Node.js e Express, permitindo flexibilidade e agilidade no desenvolvimento da API
