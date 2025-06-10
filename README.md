@@ -221,7 +221,7 @@ Fiz diversas sugestões para melhorar o projeto, como:
 
 🔗 [Acessar repositório no GitHub](https://github.com/Byte-Boost/ExpenseFlow)
 
-**Problema:** A empresa parceira tinha o problema de gerenciar as despensas de cada área e projeto de sua empresa, como recibos, quantidade de combustivel utilizado por cada funcionário e assim por diante, perdendo assim tempo e recursos valiosos que poderiam ser melhor utilizados se a empresa tivesse um plataforma centralizada e preparada para tal finalidade.
+**Problema:** A empresa parceira tinha o problema de gerenciar as despesas de cada área e projeto de sua empresa, como recibos, quantidade de combustivel utilizado por cada funcionário e assim por diante, perdendo assim tempo e recursos valiosos que poderiam ser melhor utilizados se a empresa tivesse uma plataforma centralizada e preparada para tal finalidade.
 
 **Solução:** Desenvolver uma solução móvel para a gestão e requisição de reembolsos corporativos, oferecendo uma plataforma responsiva, intuitiva e de fácil uso. O objetivo é simplificar o processo de solicitação e aprovação de reembolsos, proporcionando uma experiência ágil e eficiente tanto para os usuários quanto para as empresas, aumentando a produtividade, controle e transparência nas finanças corporativas. 
 
@@ -238,7 +238,7 @@ Fiz diversas sugestões para melhorar o projeto, como:
 ### 👨‍💻 Minhas contribuições
 
 - Trabalhei em conjunto da equipe no desenvolvimento da identidade visual do projeto
-- Auxiliei nas escolhas de desenvolvimento de que áres o projeto teria 
+- Auxiliei nas escolhas de desenvolvimento de que áreas o projeto teria 
 - Foquei em refinar a visualização das páginas e em como elas se apresentariam
 
 ---
